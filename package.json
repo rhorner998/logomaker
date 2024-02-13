@@ -1,0 +1,11 @@
+{
+    "name": "logo-maker",
+    "version": "1.0.0",
+    "description": "Your description here",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^27.4.7"
+    }
+  }
